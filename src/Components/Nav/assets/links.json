@@ -1,0 +1,26 @@
+[
+  {
+    "text": "Profile",
+    "link": "profile"
+  },
+  {
+    "text": "Messages",
+    "link": "messages"
+  },
+  {
+    "text": "Friends",
+    "link": "users"
+  },
+  {
+    "text": "News",
+    "link": "news"
+  },
+  {
+    "text": "Musik",
+    "link": "musik"
+  },
+  {
+    "text": "Settings",
+    "link": "settings"
+  }
+]
